@@ -7,7 +7,7 @@ extern void FileLoad(const char *dic);
 
 extern void dic_exec();
 
-extern void Dic_Except();
+extern void dic_Except(const char *err);
 
 
 #endif
